@@ -13,4 +13,3 @@ Jawa Swing GUI (Front-end)
 Oracle Database (Back-end)
 
 Output Screens:- 
-
